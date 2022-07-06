@@ -100,3 +100,28 @@ p {
     border: 1px solid tomato;
     color: tomato;
 }
+
+.amount-input a {
+    display: block;
+    width: 5%;
+    margin: auto;
+
+}
+
+.amount-input input {
+    border: none;
+    outline: none;
+    border-bottom: 5px solid gray;
+    width: 70%;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 3%;
+    display: block;
+    margin: 50px auto;
+
+}
+
+.amount-input input:active {
+    border: none;
+    outline: none;
+}
