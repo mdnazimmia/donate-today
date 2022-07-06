@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Gulzar', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 30px;
+
+}
+
+
+.top-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0),
+            rgba(0, 0, 0, 1)), url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 100vh;
+
+}
+
+.header-background {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 30px;
+}
+
+.link-button {
+    background-image: linear-gradient(orange, tomato);
+    padding: 30px 60px;
+    border-radius: 10px;
+}
