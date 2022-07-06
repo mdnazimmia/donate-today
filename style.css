@@ -51,3 +51,16 @@ p {
     padding: 30px 60px;
     border-radius: 10px;
 }
+
+.donation-button {
+    display: flex;
+}
+
+.amount-border {
+    width: 120px;
+    text-align: center;
+    background-color: lightgrey;
+    padding: 100px;
+    margin: 50px;
+    border-radius: 30px;
+}
